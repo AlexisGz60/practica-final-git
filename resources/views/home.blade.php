@@ -1,10 +1,10 @@
 @extends('layouts.main')
 @section('title', 'Home')
 @section('content')
-<div class="container">
-    nuevo commit lkmdsf
+<div class="container">asddsa
+    nuevo commit lkmdsfsda
     asd
-    asd
+    asddasd
     asddfds
     dadsd
     <div class="row justify-content-center">
