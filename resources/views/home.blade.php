@@ -2,6 +2,7 @@
 @section('title', 'Home')
 @section('content')
 <div class="container">
+    nuevo commit 
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
